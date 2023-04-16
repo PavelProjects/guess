@@ -1,0 +1,31 @@
+17:03:07.836498 IP localhost.56114 > localhost.cbt: Flags [S], seq 3967842031, win 65495, options [mss 65495,sackOK,TS val 2910637377 ecr 0,nop,wscale 7], length 0
+17:03:07.836519 IP localhost.cbt > localhost.56114: Flags [S.], seq 1554663101, ack 3967842032, win 65483, options [mss 65495,sackOK,TS val 2910637377 ecr 2910637377,nop,wscale 7], length 0
+17:03:07.836539 IP localhost.56114 > localhost.cbt: Flags [.], ack 1, win 512, options [nop,nop,TS val 2910637377 ecr 2910637377], length 0
+17:03:07.836621 IP localhost.56114 > localhost.cbt: Flags [P.], seq 1:9, ack 1, win 512, options [nop,nop,TS val 2910637377 ecr 2910637377], length 8
+17:03:07.836631 IP localhost.cbt > localhost.56114: Flags [.], ack 9, win 512, options [nop,nop,TS val 2910637377 ecr 2910637377], length 0
+17:03:07.836817 IP localhost.cbt > localhost.56114: Flags [P.], seq 1:5, ack 9, win 512, options [nop,nop,TS val 2910637377 ecr 2910637377], length 4
+17:03:07.836831 IP localhost.56114 > localhost.cbt: Flags [.], ack 5, win 512, options [nop,nop,TS val 2910637377 ecr 2910637377], length 0
+17:03:07.836940 IP localhost.56114 > localhost.cbt: Flags [P.], seq 9:17, ack 5, win 512, options [nop,nop,TS val 2910637378 ecr 2910637377], length 8
+17:03:07.837027 IP localhost.cbt > localhost.56114: Flags [P.], seq 5:9, ack 17, win 512, options [nop,nop,TS val 2910637378 ecr 2910637378], length 4
+17:03:07.837127 IP localhost.56114 > localhost.cbt: Flags [P.], seq 17:25, ack 9, win 512, options [nop,nop,TS val 2910637378 ecr 2910637378], length 8
+17:03:07.837182 IP localhost.cbt > localhost.56114: Flags [P.], seq 9:13, ack 25, win 512, options [nop,nop,TS val 2910637378 ecr 2910637378], length 4
+17:03:07.837264 IP localhost.56114 > localhost.cbt: Flags [P.], seq 25:33, ack 13, win 512, options [nop,nop,TS val 2910637378 ecr 2910637378], length 8
+17:03:07.837306 IP localhost.cbt > localhost.56114: Flags [P.], seq 13:17, ack 33, win 512, options [nop,nop,TS val 2910637378 ecr 2910637378], length 4
+17:03:07.837381 IP localhost.56114 > localhost.cbt: Flags [P.], seq 33:41, ack 17, win 512, options [nop,nop,TS val 2910637378 ecr 2910637378], length 8
+17:03:07.837430 IP localhost.cbt > localhost.56114: Flags [P.], seq 17:21, ack 41, win 512, options [nop,nop,TS val 2910637378 ecr 2910637378], length 4
+17:03:07.837506 IP localhost.56114 > localhost.cbt: Flags [P.], seq 41:49, ack 21, win 512, options [nop,nop,TS val 2910637378 ecr 2910637378], length 8
+17:03:07.837556 IP localhost.cbt > localhost.56114: Flags [P.], seq 21:25, ack 49, win 512, options [nop,nop,TS val 2910637378 ecr 2910637378], length 4
+17:03:07.837627 IP localhost.56114 > localhost.cbt: Flags [P.], seq 49:57, ack 25, win 512, options [nop,nop,TS val 2910637378 ecr 2910637378], length 8
+17:03:07.837668 IP localhost.cbt > localhost.56114: Flags [P.], seq 25:29, ack 57, win 512, options [nop,nop,TS val 2910637378 ecr 2910637378], length 4
+17:03:07.837735 IP localhost.56114 > localhost.cbt: Flags [P.], seq 57:65, ack 29, win 512, options [nop,nop,TS val 2910637378 ecr 2910637378], length 8
+17:03:07.837761 IP localhost.cbt > localhost.56114: Flags [P.], seq 29:33, ack 65, win 512, options [nop,nop,TS val 2910637378 ecr 2910637378], length 4
+17:03:07.837795 IP localhost.56114 > localhost.cbt: Flags [P.], seq 65:73, ack 33, win 512, options [nop,nop,TS val 2910637378 ecr 2910637378], length 8
+17:03:07.837821 IP localhost.cbt > localhost.56114: Flags [P.], seq 33:37, ack 73, win 512, options [nop,nop,TS val 2910637378 ecr 2910637378], length 4
+17:03:07.837854 IP localhost.56114 > localhost.cbt: Flags [P.], seq 73:81, ack 37, win 512, options [nop,nop,TS val 2910637378 ecr 2910637378], length 8
+17:03:07.837880 IP localhost.cbt > localhost.56114: Flags [P.], seq 37:41, ack 81, win 512, options [nop,nop,TS val 2910637378 ecr 2910637378], length 4
+17:03:07.837914 IP localhost.56114 > localhost.cbt: Flags [P.], seq 81:89, ack 41, win 512, options [nop,nop,TS val 2910637379 ecr 2910637378], length 8
+17:03:07.837939 IP localhost.cbt > localhost.56114: Flags [P.], seq 41:46, ack 89, win 512, options [nop,nop,TS val 2910637379 ecr 2910637379], length 5
+17:03:07.837977 IP localhost.cbt > localhost.56114: Flags [F.], seq 46, ack 89, win 512, options [nop,nop,TS val 2910637379 ecr 2910637379], length 0
+17:03:07.837991 IP localhost.56114 > localhost.cbt: Flags [F.], seq 89, ack 47, win 512, options [nop,nop,TS val 2910637379 ecr 2910637379], length 0
+17:03:07.838011 IP localhost.cbt > localhost.56114: Flags [.], ack 90, win 512, options [nop,nop,TS val 2910637379 ecr 2910637379], length 0
+
